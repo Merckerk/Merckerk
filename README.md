@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Merckerk
 - 👀 I’m interested Web Development
-- 🌱 I’m currently working in PCWorth as an IT Operations intern.
 - 📫 How to reach me: marckussantiago924@gmail.com | https://www.linkedin.com/in/mrcsmarsan/
 
 <!---
